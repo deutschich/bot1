@@ -1,4 +1,4 @@
-# real-User404-AI (@real-User404-AI)
+# real-User404-AI
 
 This document describes **how to use** the GitHub bot **real-User404-AI**.  
 It focuses purely on usage and behavior, not on implementation details.
@@ -26,7 +26,7 @@ To trigger the bot, mention it in a **comment on a Pull Request**:
 
 ```text
 @real-User404-AI please review this PR
-````
+```
 
 As soon as the comment is posted, the bot will:
 
