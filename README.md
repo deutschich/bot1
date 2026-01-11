@@ -160,6 +160,3 @@ If you want feedback:
 3. Mention `@real-User404-AI`
 
 That’s it.
-
-```
-```
